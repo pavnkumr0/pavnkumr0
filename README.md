@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 </h1>
+<h1 align="center">Hello World! 👋 </h1>
 
 
 <img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/man-having-coding-idea-8566353-6882216.png?f=webp" width= 45%>
@@ -20,9 +20,8 @@ Turning caffeine into code, one commit at a time.
 
 
 <h3 align="left">Connect with me:</h3>
-<!-- <p align="left"> -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-<!-- </p> -->
+<p align="left"> 
+<a href="https://www.linkedin.com/in/pavan-kumar-a15398225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></p> 
 
 
 <h3 align="left">Languages and Tools:</h3>
