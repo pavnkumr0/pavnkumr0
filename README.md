@@ -20,7 +20,9 @@ Turning caffeine into code, one commit at a time.
 
 
 <h3 align="left">Connect with me:</h3>
+<!-- <p align="left"> -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+<!-- </p> -->
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,7 +31,7 @@ Turning caffeine into code, one commit at a time.
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavnkumr0&show_icons=true&locale=en&layout=compact" alt="pavnkumr0" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavnkumr0&show_icons=true&locale=en&layout=compact" alt="pavnkumr0" width=45%/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavnkumr0&" alt="pavnkumr0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavnkumr0&" alt="pavnkumr0" width=60%/></p>
 
