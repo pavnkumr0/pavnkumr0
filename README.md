@@ -20,9 +20,7 @@ Turning caffeine into code, one commit at a time.
 
 
 <h3 align="left">Connect with me:</h3>
-<!-- <p align="left"> -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-<!-- </p> -->
 
 
 <h3 align="left">Languages and Tools:</h3>
