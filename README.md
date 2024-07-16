@@ -11,8 +11,6 @@ Turning caffeine into code, one commit at a time.
 
 - 🚀 I’m diving into **8d Audio system**
 
-- 🌿 I’m expanding my skills in **React and Redux**
-
 - 🤝 I’m eager to team up on **embedded programming**
 
 - 🐾 Did you know? **The sun can also rise at night**
