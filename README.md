@@ -13,7 +13,6 @@ Turning caffeine into code, one commit at a time.
 
 - 🤝 I’m eager to team up on **embedded programming**
 
-- 🐾 Did you know? **The sun can also rise at night**
 
 
 
